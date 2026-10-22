@@ -7,3 +7,10 @@ __pycache__/
 .vscode/
 .DS_Store
 *~
+
+# Build artifacts
+build/
+dist/
+*.zip
+*.exe
+gh-bin/
